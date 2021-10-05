@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alesiaplatonova
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate
+
 
 <!---
 alesiaplatonova/alesiaplatonova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
